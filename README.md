@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+🔭 I’m currently working on computational biology, mostly [protein function prediction](https://www.biofunctionprediction.org/). You can follow most of the projects and tools development at the [PaccanaroLab](https://paccanarolab.org) website.
+
+📫 The best way to keep updated with my work or reach me is through the profiles listed on [my website](torresmateo.com).
+
 <!--
 **torresmateo/torresmateo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
