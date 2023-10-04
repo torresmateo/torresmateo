@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on computational biology, mostly [protein function prediction](https://www.biofunctionprediction.org/). You can follow most of the projects and tools development at the [PaccanaroLab](https://paccanarolab.org) website.
+🔭 I’m currently working on computational biology, mostly [structural representation of proteins](https://yulab.org/research/) and [protein function prediction](https://www.biofunctionprediction.org/). You can follow most of the projects and tools development at the [YuLab](https://yulab.org) website.
 
 📫 The best way to keep updated with my work or reach me is through the profiles listed on [my website](https://torresmateo.com).
 
-I also run a study group that focuses on Machine Learning, covering [the PRML book By C. Bishop](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)(the streams are in Spanish, more details [here](https://torresmateo.com/prml))
+I also run a study group that focuses on Machine Learning, covering [the PRML book By C. Bishop](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/) (the streams are in Spanish, more details [here](https://torresmateo.com/prml))
 
 <!--
 **torresmateo/torresmateo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
